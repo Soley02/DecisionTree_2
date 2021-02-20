@@ -6,7 +6,7 @@ A Binder-compatible repo with a `requirements.txt` file.
 
 Access this Binder at the following URL
 
-https://mybinder.org/v2/gh/Soley02/DecisionTree/tree/master/HEAD
+https://mybinder.org/v2/gh/Soley02/DecisionTree/HEAD
 
 ## Notes
 The `requirements.txt` file lists all Python libraries that this notebook requires and they will be installed using:
