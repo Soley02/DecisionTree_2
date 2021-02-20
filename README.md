@@ -1,6 +1,6 @@
 # DecisionTree
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Soley02/DecisionTree/tree/master/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Soley02/DecisionTree/HEAD)
 
 A Binder-compatible repo with a `requirements.txt` file.
 
