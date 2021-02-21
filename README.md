@@ -1,4 +1,4 @@
-# DecisionTree
+# DecisionTree_2
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Soley02/DecisionTree_2/HEAD)
 
